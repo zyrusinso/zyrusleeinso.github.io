@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Web Developer: Zyrus Inso
+    From: Quezon City, Philippines
+
+# THANKS
+
+    
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, PHP,
+    Apache Server Configs, jQuery, 
