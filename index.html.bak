@@ -5,15 +5,17 @@
     <meta charset="utf-8">
     <title>Zyrus Lee Inso</title>
 
-    <meta name="description" content="Personal portfolio of Zyrus Lee Inso. A full stack web developer and has a passion for BackEnd. You can learn more about me by viewing this website. All works that are for public are also displayed here.">
+    <meta name="description"
+        content="Personal portfolio of Zyrus Lee Inso. A full stack web developer and has a passion for BackEnd. You can learn more about me by viewing this website. All works that are for public are also displayed here.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="author" href="/assets/humans.txt" />
 
 
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
+        rel="stylesheet">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
     <link rel="stylesheet" href="assets/normalize.css">
     <link rel="stylesheet" href="assets/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
@@ -21,23 +23,26 @@
     <link rel="stylesheet" href="assets/zyrusLee.css" />
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
-    
+
     <meta name="theme-color" content="#fafafa">
 </head>
 
 <body>
     <div class="bg-img-container" id="home"></div>
-    <svg class="blob" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="380.5" height="275" viewBox="0 0 380.5 275" style="position: absolute; right: 0; top: -64px; z-index: -1;">
+    <svg class="blob" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="380.5"
+        height="275" viewBox="0 0 380.5 275" style="position: absolute; right: 0; top: -64px; z-index: -1;">
         <defs>
-          <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
-            <stop offset="0" stop-color="#6a11cb"/>
-            <stop offset="1" stop-color="#2575fc"/>
-          </linearGradient>
+            <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#6a11cb" />
+                <stop offset="1" stop-color="#2575fc" />
+            </linearGradient>
         </defs>
-        <path id="Subtraction_6" data-name="Subtraction 6" d="M380.5,330.5h-243a138.519,138.519,0,0,1-27.711-2.793,136.749,136.749,0,0,1-49.167-20.689,137.9,137.9,0,0,1-49.817-60.5,136.8,136.8,0,0,1-8.012-25.81,138.84,138.84,0,0,1,0-55.422,136.746,136.746,0,0,1,20.689-49.166,137.9,137.9,0,0,1,60.5-49.817,136.809,136.809,0,0,1,25.81-8.012A138.518,138.518,0,0,1,137.5,55.5h243v275Z" transform="translate(0 -55.5)" fill="url(#linear-gradient)"/>
+        <path id="Subtraction_6" data-name="Subtraction 6"
+            d="M380.5,330.5h-243a138.519,138.519,0,0,1-27.711-2.793,136.749,136.749,0,0,1-49.167-20.689,137.9,137.9,0,0,1-49.817-60.5,136.8,136.8,0,0,1-8.012-25.81,138.84,138.84,0,0,1,0-55.422,136.746,136.746,0,0,1,20.689-49.166,137.9,137.9,0,0,1,60.5-49.817,136.809,136.809,0,0,1,25.81-8.012A138.518,138.518,0,0,1,137.5,55.5h243v275Z"
+            transform="translate(0 -55.5)" fill="url(#linear-gradient)" />
     </svg>
-    
-    
+
+
     <header>
         <div class="logo">
             <img src="img/myLogo.png" />
@@ -54,7 +59,7 @@
     </header>
 
     <section class="section hero">
-        
+
         <div class="hero-content">
             <h1 class="title">Zyrus Lee Inso</h1>
             <p class="subtitle">a <span style="color: yellow;">Web Developer</span></p>
@@ -69,13 +74,20 @@
             <h1 style="margin: 0; font-weight: 800">About Me</h1>
         </div>
         <div class="section-content">
-            <p>My name is  <span style="color: rgb(6, 215, 247);">Zyrus Lee Inso </span>and I am</span></span> <span id="age">19</span> years old. I am High School/Senior High School Graduate from Bestlink College of The Philippines(BCP).</p>
-            <p>While I do love Full Stack <span style="color:rgb(97, 255, 70)">Web Development</span> and completing a project from the ground up. I equally, if not more, enjoy doing BackEnd stuff like PHP and Laravel framework. If I was to pursue a career, it would most likely be BackEnd Developer. If you want to know more about me, you can read more below or we can have a chat!</p>
+            <p>My name is <span style="color: rgb(6, 215, 247);">Zyrus Lee Inso </span>and I am</span></span> <span
+                    id="age">19</span> years old. I am High School/Senior High School Graduate from Bestlink College of
+                The Philippines(BCP).</p>
+            <p>While I do love Full Stack <span style="color:rgb(97, 255, 70)">Web Development</span> and completing a
+                project from the ground up. I equally, if not more, enjoy doing BackEnd stuff like PHP and Laravel
+                framework. If I was to pursue a career, it would most likely be BackEnd Developer. If you want to know
+                more about me, you can read more below or we can have a chat!</p>
         </div>
         <div class="section-actions">
-            <a target="_blank" class="btn btn-outline blue-border hvr-bounce-to-right" target="_blank" href="#">View my CV</a> 
+            <a target="_blank" class="btn btn-outline blue-border hvr-bounce-to-right" target="_blank" href="#">View my
+                CV</a>
             <!-- https://drive.google.com/file/d/1E7A7txUd-Og4QPEi44q_CVo9i1f7doya/view?usp=sharing -->
-            <a target="_blank" class="btn btn-outline pink-border hvr-bounce-to-right" href="https://m.me/ZyrusLee07">Let's Chat!</a>
+            <a target="_blank" class="btn btn-outline pink-border hvr-bounce-to-right"
+                href="https://m.me/ZyrusLee07">Let's Chat!</a>
         </div>
     </section>
     <section id="projects" class="section">
@@ -85,54 +97,72 @@
         <div class="section-content">
             <div class="project-legend">
                 <div style="color: #F48EFF;"><span style="font-size: 1.5rem;">&#9632;</span> - Completed</div>
-                <div style="color: rgb(69, 197, 18);"><span style="font-size: 1.5rem;">&#9632;</span> - In Progress</div>
-                <div style="color: #fc4444;"><span style="font-size: 1.5rem;">&#9632;</span> - Discontinued / On-Hold</div>
+                <div style="color: rgb(69, 197, 18);"><span style="font-size: 1.5rem;">&#9632;</span> - In Progress
+                </div>
+                <div style="color: #fc4444;"><span style="font-size: 1.5rem;">&#9632;</span> - Discontinued / On-Hold
+                </div>
             </div>
             <div class="projects-list">
-				<div class="project-item in-progress">
-					<div class="project-container">
-						<div class="project-header">
-							<h1 style="margin: 0;">MLM System</h1>
-							<p>March 2022 - <i>present</i></p>
-						</div>
-						<div class="project-action">
-							<a target="_blank" href="#" class="btn-action disabled"><i class="fa fa-eye-slashed"></i>Private</a>
-						</div>
-					</div>
-				</div>
-				<div class="project-item completed">
-						<div class="project-container">
-							<div class="project-header">
-								<h1 style="margin: 0;">CMS Livewire-Tailwind</h1>
-								<p>February 2022</p>
-							</div>
-							<div class="project-action">
-								<a target="_blank" href="https://github.com/zyrusinso/livewire_cms" class="btn-action"><i class="fab fa-github"></i>VIew on Github</a>
-							</div>
-						</div>
-				</div>
-				<div class="project-item discontinued">
-						<div class="project-container">
-							<div class="project-header">
-								<h1 style="margin: 0;">Guidance System</h1>
-								<p>October 2021</p>
-							</div>
-							<div class="project-action">
-								<a target="_blank" href="#" class="btn-action disabled"><i class="fa fa-eye-slashed"></i>Private</a>
-							</div>
-						</div>
-				</div>
-				<div class="project-item completed">
-					<div class="project-container">
-						<div class="project-header">
-							<h1 style="margin: 0;">Academics Handler</h1>
-							<p>September 2021</i></p>
-						</div>
-						<div class="project-action">
-							<a target="_blank" href="#" class="btn-action disabled"><i class="fa fa-eye-slashed"></i>Private</a>
-						</div>
-					</div>
-				</div>
+                <div class="project-item in-progress">
+                    <div class="project-container">
+                        <div class="project-header">
+                            <h1 style="margin: 0;">User Plan Management</h1>
+                            <p>April 2022</p>
+                        </div>
+                        <div class="project-action">
+                            <a target="_blank" href="https://github.com/zyrusinso/user_plan_management" class="btn-action"><i
+                                class="fab fa-github"></i>VIew on Github</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-item in-progress">
+                    <div class="project-container">
+                        <div class="project-header">
+                            <h1 style="margin: 0;">MLM System</h1>
+                            <p>March 2022 - <i>present</i></p>
+                        </div>
+                        <div class="project-action">
+                            <a target="_blank" href="#" class="btn-action disabled"><i
+                                    class="fa fa-eye-slashed"></i>Private</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-item completed">
+                    <div class="project-container">
+                        <div class="project-header">
+                            <h1 style="margin: 0;">CMS Livewire-Tailwind</h1>
+                            <p>February 2022</p>
+                        </div>
+                        <div class="project-action">
+                            <a target="_blank" href="https://github.com/zyrusinso/livewire_cms" class="btn-action"><i
+                                    class="fab fa-github"></i>VIew on Github</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-item completed">
+                    <div class="project-container">
+                        <div class="project-header">
+                            <h1 style="margin: 0;">Guidance System</h1>
+                            <p>October 2021</p>
+                        </div>
+                        <div class="project-action">
+                            <a target="_blank" href="https://github.com/zyrusinso/Guidance-System" class="btn-action"><i
+                                class="fab fa-github"></i>VIew on Github</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-item completed">
+                    <div class="project-container">
+                        <div class="project-header">
+                            <h1 style="margin: 0;">Academics Handler</h1>
+                            <p>September 2021</i></p>
+                        </div>
+                        <div class="project-action">
+                            <a target="_blank" href="https://github.com/zyrusinso/academics-handler" class="btn-action"><i
+                                    class="fab fa-github"></i>VIew on Github</a>
+                        </div>
+                    </div>
+                </div>
                 <div class="project-item completed">
                     <div class="project-container">
                         <div class="project-header">
@@ -140,7 +170,8 @@
                             <p>August 2021</i></p>
                         </div>
                         <div class="project-action">
-                            <a target="_blank" href="https://github.com/zyrusinso/UKSystem" class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
+                            <a target="_blank" href="https://github.com/zyrusinso/UKSystem" class="btn-action"><i
+                                    class="fab fa-github"></i> View on GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -151,7 +182,8 @@
                             <p>July 2021</p>
                         </div>
                         <div class="project-action">
-                            <a target="_blank" href="https://github.com/zyrusinso/InformationSystem" class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
+                            <a target="_blank" href="https://github.com/zyrusinso/SocMedApp"
+                                class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
                         </div>
                     </div>
                 </div>
@@ -162,11 +194,12 @@
                             <p>June 2021</p>
                         </div>
                         <div class="project-action">
-                            <a target="_blank" href="https://github.com/zyrusinso/InformationSystem" class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
+                            <a target="_blank" href="https://github.com/zyrusinso/InformationSystem"
+                                class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="project-item completed">
                     <div class="project-container">
                         <div class="project-header">
@@ -174,12 +207,14 @@
                             <p>December 2020</p>
                         </div>
                         <div class="project-action">
-                            <a target="_blank" href="https://github.com/zyrusinso/wildlife-conservation" class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
-							<a target="_blank" href="https://wildlife-conservation.herokuapp.com" class="btn-action"><i class="fab fa-website"></i> View</a>
+                            <a target="_blank" href="https://github.com/zyrusinso/wildlife-conservation"
+                                class="btn-action"><i class="fab fa-github"></i> View on GitHub</a>
+                            <a target="_blank" href="https://wildlife-conservation.herokuapp.com" class="btn-action"><i
+                                    class="fab fa-website"></i> View</a>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section>
@@ -192,38 +227,42 @@
             <div class="skills-container soft-skills">
                 <div class="soft-skill-item">
                     <div>
-                        <img src="img/community.svg" style="width: 15rem;"/>
+                        <img src="img/community.svg" style="width: 15rem;" />
                     </div>
                     <div style="flex: 1;">
                         <h1>Teamwork</h1>
-                        <p>I have high compatibility working with just about anyone. Very rarely do I have someone that I cannot work with and vice-versa.</p>
+                        <p>I have high compatibility working with just about anyone. Very rarely do I have someone that
+                            I cannot work with and vice-versa.</p>
                     </div>
                 </div>
                 <div class="soft-skill-item">
                     <div>
-                        <img src="img/success.svg" style="width: 15rem;"/>
+                        <img src="img/success.svg" style="width: 15rem;" />
                     </div>
                     <div style="flex: 1;">
                         <h1>Leadership</h1>
-                        <p>I can make people feel at ease under high pressure situation. This was demonstrated at my last work.</p>
+                        <p>I can make people feel at ease under high pressure situation. This was demonstrated at my
+                            last work.</p>
                     </div>
                 </div>
                 <div class="soft-skill-item">
                     <div>
-                        <img src="img/idea.svg" style="width: 15rem;"/>
+                        <img src="img/idea.svg" style="width: 15rem;" />
                     </div>
                     <div style="flex: 1;">
                         <h1>Creativity</h1>
-                        <p>I love thinking of new ideas that would benefit me in my daily life and also benefit other people as well. </p>
+                        <p>I love thinking of new ideas that would benefit me in my daily life and also benefit other
+                            people as well. </p>
                     </div>
                 </div>
                 <div class="soft-skill-item">
                     <div>
-                        <img src="img/customer_support.svg" style="width: 15rem;"/>
+                        <img src="img/customer_support.svg" style="width: 15rem;" />
                     </div>
                     <div style="flex: 1;">
                         <h1>Communication</h1>
-                        <p>I have high compatibility working with just about anyone. Very rarely do I have someone that I cannot work with and vice-versa.</p>
+                        <p>I have high compatibility working with just about anyone. Very rarely do I have someone that
+                            I cannot work with and vice-versa.</p>
                     </div>
                 </div>
             </div>
@@ -247,7 +286,7 @@
                 </div>
                 <div class="skill-item">
                     <img src="img/git.svg">
-                    <h1>Git</h1>
+                    <h1>Git/Github</h1>
                 </div>
                 <div class="skill-item">
                     <img src="img/Laravel.png">
@@ -257,12 +296,12 @@
                     <img src="img/php.svg">
                     <h1>PHP</h1>
                 </div>
-                
+
             </div>
         </div>
     </section>
     <section id="achievements" class="section">
-        <div class="banner-header right"style="background-color: #30BF43;">
+        <div class="banner-header right" style="background-color: #30BF43;">
             <h1>Achievements</h1>
         </div>
         <div class="section-content">
@@ -285,7 +324,7 @@
     </section>
     <footer style="flex-wrap: wrap;">
         <div id="contact">
-            <h1 style="margin: 0;" >Links</h1>
+            <h1 style="margin: 0;">Links</h1>
             <ul class="nav-links" style="list-style-type: none;">
                 <li><a class="nav-link" href="#about">about</a></li>
                 <li><a class="nav-link" href="#projects">projects</a></li>
@@ -296,15 +335,20 @@
         </div>
         <div style="display: flex; flex: 1; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px;">
             <h1>Contact Me:</h1>
-            <a target="_blank" href="https://facebook.com/ZyrusLee07" class="social-icon facebook"><i class="fab fa-facebook-f"></i></a>
-            <a target="_blank" href="https://www.linkedin.com/in/zyrusinso" class="social-icon linkedin"><i class="fab fa-linkedin-in"></i></a>
-            <a target="_blank" href="https://twitter.com/zyrusinso" class="social-icon twitter"><i class="fab fa-twitter"></i></a>
-            <a target="_blank" href="https://www.github.com/zyrusinso" class="social-icon github"><i class="fab fa-github"></i></a>
+            <a target="_blank" href="https://facebook.com/ZyrusLee07" class="social-icon facebook"><i
+                    class="fab fa-facebook-f"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/zyrusinso" class="social-icon linkedin"><i
+                    class="fab fa-linkedin-in"></i></a>
+            <a target="_blank" href="https://twitter.com/zyrusinso" class="social-icon twitter"><i
+                    class="fab fa-twitter"></i></a>
+            <a target="_blank" href="https://www.github.com/zyrusinso" class="social-icon github"><i
+                    class="fab fa-github"></i></a>
         </div>
     </footer>
 
     <a class="btn-fab animate__animated" href="#home">
-        <i class="fas fa-chevron-up" style="padding: 20px; font-size: 1.5rem; text-align: center; text-decoration: none;"></i>
+        <i class="fas fa-chevron-up"
+            style="padding: 20px; font-size: 1.5rem; text-align: center; text-decoration: none;"></i>
     </a>
 
     <script src="assets/modernizr-3.11.2.min.js"></script>
